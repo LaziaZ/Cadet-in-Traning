@@ -1,2 +1,2 @@
-# Cadet-in-Traning
-Technical Test ZettaByte
+# Technical Test ZettaByte
+Cadet-in-Traning
